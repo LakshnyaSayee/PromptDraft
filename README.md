@@ -38,11 +38,6 @@ Node.js v18+
 npm or yarn
 Groq API key (free at console.groq.com)
 
-Installation
-bash# Clone the repo
-git clone https://github.com/yourusername/promptdraft.git
-cd promptdraft
-
 # Install dependencies
 npm install
 
